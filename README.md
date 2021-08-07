@@ -2,10 +2,9 @@
 
 Greetings! I'm Fransiskus Xaverius Kevin Koesnadi, you can call me "FX" or "Kevin" actually. Hope you're well! ^^
 
-📫 Keep in touch with me through these platforms:
+📫 Keep in touch with me through this platform:
 
 * [LinkedIn](https://linkedin.com/in/fxkevink)
-* [Instagram](https://instagram.com/fxkevink)
 
 Thank you. *Terima kasih*.
 
