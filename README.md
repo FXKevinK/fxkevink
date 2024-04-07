@@ -58,7 +58,6 @@ Thank you. *Terima kasih*.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/fxkevink-0A66C2.svg?&style=for-the-badge&logo=linkedin&&labelColor=black&logoColor=white&linkhttps://www.linkedin.com/in/fxkevink/)](https://www.linkedin.com/in/fxkevink/)
-[![Gmail](https://img.shields.io/badge/fxkevink5-EA4335.svg?&style=for-the-badge&logo=gmail&labelColor=black&logoColor=white&link=mailto:fxkevink5@gmail.com)](mailto:fxkevink5@gmail.com)
   
 </div> -->
 
