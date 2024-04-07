@@ -20,7 +20,7 @@ Greetings! <em>Salam!</em> You can call me <b>"FX"</b> or <b>"Kevin"</b>. Hope y
 - 🏫 I graduated from <a href="https://its.ac.id"> <b>Institut Teknologi Sepuluh Nopember</a>, Indonesia</b> for my undergraduate degree
 - 🌱 I am interested in Computer Vision, IoT, and Web & Mobile Development, also sometimes UI/UX for my computer field
 - 🥤 I am not coffee enjoyer, tbh I prefer tea :)
-- 🔍 I like to discuss world history, astronomy, and languages. I also like random walks (river, hills, beach, downtown, ruralside)
+- 🔍 I like to discuss world history, astronomy, and languages. I also like random walks (riverside, hills, beach, downtown, ruralside)
 
 Thank you. *Terima kasih*.
 <!-- - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development. -->
