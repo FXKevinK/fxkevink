@@ -26,7 +26,7 @@ Greetings! <em>Salam!</em> You can call me <b>"FX"</b> or <b>"Kevin"</b>. Hope y
 Thank you. *Terima kasih*.
 <!-- - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development. -->
 
-## Tech Stack ⚙
+## Tech stack ⚙
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
