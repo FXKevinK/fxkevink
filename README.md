@@ -45,6 +45,7 @@ Thank you. *Terima kasih*.
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
