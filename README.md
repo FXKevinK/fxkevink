@@ -10,7 +10,7 @@ Greetings! <em>Salam!</em> You can call me <b>"FX"</b> or <b>"Kevin"</b>. Hope y
   </a> -->
   <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fxkevink&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&count_private=true&include_all_commits=true" alt="fxkevink" />
   <a href="https://github.com/fxkevink">
-    <img align="center" height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxkevink&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact" />
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxkevink&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact" />
   </a>
 </p>
 
