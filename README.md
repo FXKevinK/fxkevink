@@ -17,7 +17,7 @@ Greetings! <em>Salam</em>! You can call me <b>"FX"</b> or <b>"Kevin"</b>. Hope y
 ---
 
 ## About me 😆
-- 🏫 I am currently pursuing my master's degree at <b>Pusan National University (부산대학교), Korea</b> at <a href="https://inslab.pusan.ac.kr/enslab/index.do"> INSLAB</a>
+- 🏫 I am currently pursuing my master's degree at <a href="https://inslab.pusan.ac.kr/enslab/index.do"> INSLAB</a>, <b>Pusan National University (부산대학교), Korea</b>
 - 🎓 I graduated from <a href="https://its.ac.id"> <b>Institut Teknologi Sepuluh Nopember</a>, Indonesia</b> for my undergraduate degree
 - 🌱 I am interested in Computer Vision, IoT, and Web & Mobile Development, also sometimes UI/UX for my computer field
 - 🥤 I am not a coffee drinker, tbh I prefer tea :)
