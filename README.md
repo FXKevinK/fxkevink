@@ -1,7 +1,7 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Fransiskus Xaverius Kevin Koesnadi</h1>
 
 <p align="center">
-Greetings! <em>Salam</em>! You can call me <b>"FX"</b> or <b>"Kevin"</b>. Hope you're well! ^^
+Welcome to <a href="https://github.com/fxkevink/">my <b>GitHub</b></a> <b>Repository</b>! You can call me <b>"FX"</b> or <b>"Kevin"</b>. Hope you're well! ^^
 </p>
 
 <p align="center">
