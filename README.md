@@ -17,8 +17,8 @@ Welcome to <a href="https://github.com/fxkevink/">my <b>GitHub</b></a> <b>Reposi
 ---
 
 ## About me 😆
-- 🏫 I am currently pursuing my master's degree at <a href="https://inslab.pusan.ac.kr/enslab/index.do"> INSLAB</a>, <b>Pusan National University (부산대학교), Korea</b>
-- 🎓 I graduated from <a href="https://its.ac.id"> <b>Institut Teknologi Sepuluh Nopember</a>, Indonesia</b> for my undergraduate degree
+- 🏫 I am currently a software developer at <a href="http://esupartners.com/"> <b>이수파트너스 (ESU Partners)</a>, Korea</b>
+- 🎓 I graduated from <a href="https://its.ac.id"> <b>ITS Surabaya</a>, Indonesia</b> and <a href="https://inslab.pusan.ac.kr/enslab/26830/subview.do"> <b>PNU (부산대학교)</a>, Korea</b>
 - 🌱 I am interested in Computer Vision, IoT, and Web & Mobile Development, also sometimes UI/UX for my computer field
 - 🥤 I am not a coffee drinker, tbh I prefer tea :)
 - 🔍 I like to discuss world history, astronomy, and languages. I also like random walks (riverside, hills, beach, downtown, ruralside)
