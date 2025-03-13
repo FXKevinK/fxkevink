@@ -27,7 +27,7 @@ Welcome to <a href="https://github.com/fxkevink/">my <b>GitHub</b></a> <b>Reposi
 - 🔍 I like to discuss world history, astronomy, and languages. I also like random walks (riverside, hills, beach, downtown, ruralside)
 
 Thank you. *Terima kasih*.
-<!-- - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development. -->
+<!-- - 🔭  -->
 
 ## Tech stack ⚙
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
