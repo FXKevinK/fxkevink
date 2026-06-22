@@ -21,7 +21,7 @@ Welcome to <a href="https://github.com/fxkevink/">my <b>GitHub</b></a> <b>Reposi
 
 ## About me 😆
 <!-- -- 🏫 I am curently a software engineer based in Busan, Korea -->
-- 🏫 I am curently a system developer at <a href="https://www.realsecu.net/en/index/"><b> (주) 리얼시큐 (RealSecu Co., Ltd.)</a>, Korea</b>
+- 🏫 I am curently a system developer at <a href="https://www.realsecu.net"><b> (주) 리얼시큐 (RealSecu Co., Ltd.)</a>, Korea</b>
 - 🎓 I graduated from <a href="https://its.ac.id"> <b>ITS Surabaya</a>, Indonesia</b> and <a href="https://inslab.pusan.ac.kr/enslab/26830/subview.do"> <b>PNU (부산대학교)</a>, Korea</b>
 - 🌱 I am interested in Computer Vision, IoT, and Web & Mobile Development, also sometimes UI/UX for my computer field
 - 🥤 I am not a coffee drinker, tbh I prefer tea :)
