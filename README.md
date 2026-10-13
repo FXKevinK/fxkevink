@@ -69,9 +69,9 @@ Thank you. *Terima kasih*.
   
 </div> -->
 
-<p align="right">
+<!-- <p align="right">
   <img src="https://komarev.com/ghpvc/?username=fxkevink&label=Views&color=fedd3b&style=flat" alt="fxkevink" style="vertical-align: middle;" />
-</p>
+</p> -->
 
 <!--
 ## Hello there! 👋
