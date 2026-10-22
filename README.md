@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FFE000,35:FFFFFF,70:0047A0,90:0047A0,100:FF0000&section=header" width="100%" alt="header" />
+</p>
+
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">! I'm Fransiskus Xaverius Kevin Koesnadi</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=B38F00&center=true&vCenter=true&width=600&lines=Researcher+%26+System+Developer+%40+RealSecu;Computer+Vision+%7C+IoT+%7C+Web+%26+Mobile+Dev;Tea+%3E+Coffee+%3A%29;Terima+kasih+%E2%80%A2+%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4+%E2%80%A2+Thank+you" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
 Welcome to <a href="https://github.com/fxkevink/">my <b>GitHub</b></a> <b>Repository</b>! You can call me <b>"FX"</b> or <b>"Kevin"</b>. Hope you're well~! ^^
@@ -17,12 +27,12 @@ Welcome to <a href="https://github.com/fxkevink/">my <b>GitHub</b></a> <b>Reposi
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FFE000,35:FFFFFF,70:0047A0,90:0047A0,100:FF0000" width="100%" alt="divider" />
 
 ## About me 😆
 <!-- -- 🏫 I am curently a software engineer based in Busan, Korea -->
-- 🏫 I am currently a researcher & system developer at <a href="https://www.realsecu.net"><b> (주) 리얼시큐 (RealSecu Co., Ltd.)</a>, Korea</b>
-- 🎓 I graduated from <a href="https://its.ac.id"> <b>ITS Surabaya</a>, Indonesia</b> and <a href="https://inslab.pusan.ac.kr/enslab/26830/subview.do"> <b>PNU (부산대학교)</a>, Korea</b>
+- 🏫 I am currently a researcher & system developer at <a href="https://www.realsecu.net"><b>(주) 리얼시큐 (RealSecu Co., Ltd.)</b></a>, <b>Korea</b>
+- 🎓 I graduated from <a href="https://its.ac.id"><b>ITS Surabaya</b></a>, <b>Indonesia</b> and <a href="https://inslab.pusan.ac.kr/enslab/26830/subview.do"><b>PNU (부산대학교)</b></a>, <b>Korea</b>
 - 🌱 I am interested in Computer Vision, IoT, and Web & Mobile Development, also sometimes UI/UX for my computer field
 - 🥤 I am not a coffee drinker, tbh I prefer tea :)
 - 🔍 I like to discuss world history, astronomy, and languages. I also like random walks (riverside, hills, beach, downtown, ruralside)
@@ -31,6 +41,11 @@ Thank you. *Terima kasih*.
 <!-- - 🔭  -->
 
 ## Tech stack ⚙
+
+<div align="center">
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -41,15 +56,21 @@ Thank you. *Terima kasih*.
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white)
 
+**Version Control**
+
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/bitbucket-0052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)
+
+**Frameworks & Libraries**
 
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -61,7 +82,11 @@ Thank you. *Terima kasih*.
 ![Keras](https://img.shields.io/badge/keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white)
 
----
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF0000,10:0047A0,30:0047A0,65:FFFFFF,100:FFE000&section=footer" width="100%" alt="footer" />
+</p>
 <!--
 <div align="center">
 
