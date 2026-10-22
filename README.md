@@ -21,6 +21,7 @@ Welcome to <a href="https://github.com/fxkevink/">my <b>GitHub</b></a> <b>Reposi
 <!--   <img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=fxkevink&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&count_private=true&include_all_commits=true" alt="fxkevink-stats" /> -->
 <!--   <a href="https://git.io/streak-stats"> -->
     <img align="center" src="https://github-readme-streak-stats-iota-weld.vercel.app?user=fxkevink&theme=dark&date_format=%5BY.%5Dn.j" alt="FXKevinK's GitHub Streak" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxkevink&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages" />
 <!--   </a> -->
   <a href="https://github.com/fxkevink">
     <!-- <img align="center" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxkevink&text_color=FFFFFF&bg_color=000000&title_color=ebc50c&langs_count=15&layout=compact" /> -->
